@@ -132,7 +132,7 @@ export default function DashboardPage() {
         </Link>
         <a
           className="flex flex-col items-center justify-center text-on-surface/60 p-2 active:scale-90 transition-all"
-          href="#"
+          href="/app/profile"
         >
           <User className="h-5 w-5" />
           <span className="font-body text-[10px] font-bold uppercase tracking-widest mt-1">
