@@ -127,7 +127,7 @@ export default function DashboardPage() {
         >
           <Leaf className="h-5 w-5" />
           <span className="font-body text-[10px] font-bold uppercase tracking-widest mt-1">
-            Advisory feew
+            Advisory 
           </span>
         </Link>
         <a
